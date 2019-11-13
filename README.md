@@ -2,7 +2,7 @@
 
 ## Minimum requirements
 
-* English Basic Level
+* Basic Level English
 * Be able to work under pressure
 * Be open to learn a wide range of new technologies
 * Knowledge of: PHP, Node, Shell Scripting, Docker , Linux Administration, MySQL
@@ -22,5 +22,5 @@ https://docs.docker.com/compose/wordpress/
 ## Instructions
 
 1. Make the fork of this repository and make a branch with your name and surname. (ex: fulano-dasilva)
-2. After finish, make a Pull Request.
-3. Wait for any contributor to do a code review.
+2. After finishing, make the Pull Request.
+3. Wait for some contributor to make the code review.
