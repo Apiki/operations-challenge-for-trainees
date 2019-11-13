@@ -1,4 +1,4 @@
-# Operations Challenge for trainee
+# Operations Challenge for trainees
 
 ## Minimum requirements
 
